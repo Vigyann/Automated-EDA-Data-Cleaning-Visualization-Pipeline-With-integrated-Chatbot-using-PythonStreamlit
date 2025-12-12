@@ -45,17 +45,18 @@ All these operations are controlled through the Streamlit UI, making the entire 
 ---
 
 ##  Repository Structure
+```
 .
-├── data_assistant.py        # HuggingFace DeepSeek powered AI assistant
-├── data_cleaning.py         # Automated data preprocessing, missing value handling
-├── data_visualisation.py    # One-click charts & plots using matplotlib/seaborn
-├── modelbuilding.py         # Automated ML pipeline (classification/regression)
-├── interface.py             # Streamlit UI orchestrating all functionalities
-├── ss.png                   # Screenshot 1
-├── ss1.png                  # Screenshot 2
-├── requirements.txt         # Python dependencies
-└── README.md                # Project documentation
-
+├── data_assistant.py        
+├── data_cleaning.py         
+├── data_visualisation.py    
+├── modelbuilding.py         
+├── interface.py             
+├── ss.png                   
+├── ss1.png                  
+├── requirements.txt
+└── README.md                
+```
 
 ---
 ### Project Files
